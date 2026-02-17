@@ -21,7 +21,7 @@
 
 ### Verify Data in Data View
 
-![Verify Data in Data View](screenshots/Verify Data in Data View.png)
+![Verify Data in Data View](/screenshots/Verify Data in Data View.png)
 
 **Q: Are all columns visible?**
 > ✅ Yes. All five columns — **Date, Product, Category, Region, and Sales** — are visible in the Data View.
