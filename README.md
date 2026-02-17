@@ -21,7 +21,7 @@
 
 ### Verify Data in Data View
 
-![Verify Data in Data View](/screenshots/Verify Data in Data View.png)
+![Verify Data in Data View](screenshots/Verify%20Data%20in%20Data%20View.png)
 
 **Q: Are all columns visible?**
 > ✅ Yes. All five columns — **Date, Product, Category, Region, and Sales** — are visible in the Data View.
@@ -41,7 +41,7 @@
 
 ### Step 1: Quick Visualization
 
-![Quick Visualization](screenshots/Quick Visualization (2).png)
+![Quick Visualization](screenshots/Quick%20Visualization%20(2).png)
 
 **Q: What type of chart was created?**
 > Power BI automatically created a **Clustered Bar/Column Chart** when the Sales field was dragged onto the canvas.
@@ -53,7 +53,7 @@
 
 ### Step 2: Sales by Region Chart
 
-![Sales by Region Chart](screenshots/Sales by Region Chart.png)
+![Sales by Region Chart](screenshots/Sales%20by%20Region%20Chart.png)
 
 > A **Clustered Column Chart** was created by:
 > - Selecting **Clustered Column Chart** from the Visualizations pane
@@ -67,7 +67,7 @@
 
 ### Step 3: Sales by Category
 
-![Sales by Category](screenshots/Sales by Category.png)
+![Sales by Category](screenshots/Sales%20by%20Category.png)
 
 > A **Pie Chart** was created by:
 > - Inserting a **Pie Chart** from the Visualizations pane
@@ -84,7 +84,7 @@
 
 ### Step 4: Sales Over Time
 
-![Sales Over Time](screenshots/Sales Over Time.png)
+![Sales Over Time](screenshots/Sales%20Over%20Time.png)
 
 > A **Line Chart** was created by:
 > - Inserting a **Line Chart** from the Visualizations pane
@@ -95,7 +95,7 @@
 > **No.** The line chart shows a **declining trend** from 2024 to 2025 rather than growth.
 
 **Q: Any noticeable trend?**
-> There is a **steep downward slope** from approximately **200K in 2024** down to near **0 in 2025**. 
+> There is a **steep downward slope** from approximately **200K in 2024** down to near **0 in 2025**.
 
 ---
 
@@ -108,7 +108,7 @@
 > **Electronics** performs best, contributing **90K (40.82%)** of total sales — the highest share among all three product categories.
 
 **Q: Are sales consistent across dates?**
-> Sales are **not fully consistent across dates**. The 2024 data shows significantly higher recorded sales (~200K) compared to 2025. 
+> Sales are **not fully consistent across dates**. The 2024 data shows significantly higher recorded sales (~200K) compared to 2025.
 
 **Q: What business recommendation can you suggest?**
 > Management should **focus resources on the West and East regions** where sales are strongest, while launching targeted campaigns to **improve the North region's performance** (lowest at ~46K). For products, **Office Supplies needs increased attention** as it significantly underperforms at only 19.99% compared to Electronics and Furniture.
@@ -145,7 +145,7 @@
 > **Office Supplies** has the lowest performance at **44K (19.99%)** of total sales — significantly lower than Electronics (40.82%) and Furniture (39.19%).
 
 **8. Are sales increasing, decreasing, or stable?**
-> Sales appear to be **decreasing** from 2024 to 2025 based on the line chart. 
+> Sales appear to be **decreasing** from 2024 to 2025 based on the line chart.
 
 **9. If you were a manager, which region would you prioritize?**
 > As a manager, I would prioritize the **North region** — it significantly underperforms at ~46K compared to the other regions (56K–59K). Investigating the root cause and launching a targeted recovery strategy in the North offers the greatest opportunity for overall revenue growth.
@@ -159,7 +159,7 @@
 
 ### Task 1: Add a Card Visualization
 
-![Card Visualization](screenshots/Card Visualization.png)
+![Card Visualization](screenshots/Card%20Visualization.png)
 
 > A **Card Visualization** was added by:
 > 1. Inserting a **Card** from the Visualizations pane
@@ -194,7 +194,7 @@
 
 ### Task 3: Sort Sales
 
-![Sort Sales](screenshots/Sort Sales.png)
+![Sort Sales](screenshots/Sort%20Sales.png)
 
 > The Region chart was sorted by:
 > 1. Clicking the **Region Chart**
@@ -212,7 +212,7 @@
 ### Task 4: Identify Outliers
 
 **Q: Which region is significantly higher or lower?**
-> The **North region** stands out as significantly lower at approximately **46K**, while the other three regions (West ~59K, East ~58K, South ~57K) are all clustered closely together. The **West region** has the highest region.
+> The **North region** stands out as significantly lower at approximately **46K**, while the other three regions (West ~59K, East ~58K, South ~57K) are all clustered closely together. The **West region** has the highest sales among all regions.
 
 **Q: What might explain that difference?**
 > Possible explanations for North's underperformance include:
@@ -223,8 +223,6 @@
 > - Logistical or supply chain challenges affecting product availability in that region
 
 ---
-
-
 
 ## One-Page Insight Summary
 
@@ -245,7 +243,7 @@ Electronics accounts for 40.82% (90K) of total sales, making it the strongest pe
 ---
 
 **Insight 3 – Sales Trend Appears Declining but Data May Be Incomplete**
-The line chart shows a steep downward trend from ~200K in 2024 to near zero in 2025. 
+The line chart shows a steep downward trend from ~200K in 2024 to near zero in 2025. This is most likely caused by incomplete 2025 data (partial year recording) rather than an actual business decline. No firm year-over-year conclusions should be drawn until a complete set of 2025 data is available.
 
 ---
 
@@ -267,5 +265,3 @@ At only 46K, the North region consistently underperforms across all metrics. Thi
 5. **Use Power BI slicers for monthly regional reviews** to catch performance dips early and enable faster responses.
 
 ---
-
-*Submitted by: [Dianah Myra Salazar]*
