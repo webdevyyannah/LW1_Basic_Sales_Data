@@ -7,5 +7,5 @@ Dianah Myra Salazar
 Laboratory Work 1 – Introduction to Business Intelligence & Power BI
 
 ## PDF Documentation
-[Click here to view the PDF](./Salazar_DianahMyra_LW1.pdf.
+[Click here to view the PDF](./Salazar_DianahMyra_LW1.pdf.pdf)
 
